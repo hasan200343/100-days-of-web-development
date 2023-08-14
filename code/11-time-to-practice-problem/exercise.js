@@ -4,7 +4,7 @@
 
 // Exercise Time!
 
-// 1) Create three new variables:
+// 1) Create three new variables:)
 //    - A variable that stores the name of an online course of your choice
 //    - A variable that stores the price of that course
 //    - A variable that stores the three main goals that you have, when taking this course
